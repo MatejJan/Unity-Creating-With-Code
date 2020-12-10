@@ -22,5 +22,10 @@ public class DestroyOutOfBounds : MonoBehaviour
         {
             Destroy(gameObject);
         }
+
+        if (z < bottomBound)
+        {
+            Debug.Log("GAME OVER");
+        }
     }
 }
