@@ -205,7 +205,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0, g: 0.057691336, b: 1, a: 1}
+      maxColor: {r: 0.33397114, g: 0.6929509, b: 0.8962264, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -4635,7 +4635,7 @@ ParticleSystem:
 --- !u!199 &7373606239211564965
 ParticleSystemRenderer:
   serializedVersion: 6
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
